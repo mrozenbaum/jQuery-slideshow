@@ -1,0 +1,14 @@
+/* image styles*/
+img {
+  height: 700px;
+  width: 700px;
+  padding: 5%;
+}
+/* Centering images */
+#test {
+  text-align: center;
+}
+/* Heading styles */
+.info {
+  text-align: center;
+}
